@@ -1,3 +1,8 @@
+flask
+jsonlib
+datetime
+os-sys
+requests
 langchain
 langchain-google-genai
 langchain-community
