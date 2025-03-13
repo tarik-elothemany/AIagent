@@ -1,0 +1,10 @@
+langchain
+langchain-google-genai
+langchain-community
+openai
+google-generativeai
+pandas
+scikit-learn
+requests
+joblib
+
