@@ -63,4 +63,5 @@ if __name__ == "__main__":
     optimized_rules = optimize_wazuh_rules(old_rules, weekly_alerts)
 
     # Print AI-generated optimized rules
+     # Print AI-generated optimized rules
     print("\n🔍 **Optimized Wazuh Rules:**\n", optimized_rules)
